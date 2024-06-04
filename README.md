@@ -12,7 +12,7 @@ Discute c√≥mo esta mentalidad, que enfatiza el desarrollo de habilidades a trav√
 
 [Mi portafilio](https://github.com/alfcalo/reading-notes/)
 
-#Adicional
+## Adicional
 
 ![Alfredo Cardenas](https://github.com/alfcalo/reading-notes/blob/main/foto.jpg)
 
