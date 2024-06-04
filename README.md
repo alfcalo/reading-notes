@@ -8,6 +8,6 @@ La Pagina nos habla de los esfuerzos que uno necesita para lograr superar los de
 - Persistencia
 - Aprender de las críticas 
 
-** Pagina perfil **
+**Pagina perfil**
 
 [Mi portafilio](https://github.com/alfcalo/reading-notes/)
