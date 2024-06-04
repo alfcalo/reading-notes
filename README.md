@@ -13,6 +13,7 @@ La Pagina nos habla de los esfuerzos que uno necesita para lograr superar los de
 [Mi portafilio](https://github.com/alfcalo/reading-notes/)
 
 
-![Foto](https://drive.google.com/file/d/10yjz5TDupUOxCf5G5ID6cgMUFdWOPOiL/view?usp=drive_link)
+![Alfredo Cardenas](https://drive.google.com/file/d/10yjz5TDupUOxCf5G5ID6cgMUFdWOPOiL/view?usp=drive_link)
+
 
 Mi edad: 44 años, vivo en Ayacucho e interesado mucho en el codigo
